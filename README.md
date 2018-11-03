@@ -26,8 +26,8 @@
 - 데이터 수집과 Fact Finding
 - 결과와 공헌
 - 모델
-  - 응용의 과정
-  - 응용의 결과와 공헌
+- 응용의 과정
+- 응용의 결과와 공헌
 - Results and Next Step
 ## 기간이 짧은 프로젝트의 모델링 전개 방향
 - Target은 2~3개의 Class
