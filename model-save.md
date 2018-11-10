@@ -1,5 +1,5 @@
 
-# References : Model Save 
+# References : Model Save and Load
 
 ## case of sklearn
 - https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/
